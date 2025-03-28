@@ -2,9 +2,8 @@
 
 <h1>Generative Powers of Ten</h1>
 
-Implementation of <a href="https://powers-of-10.github.io/">Generative Powers of Ten</a>, using <a href="http://stability.ai/">Stability AI</a>'s <a href="https://github.com/deep-floyd/IF">DeepFloyd IF</a>.
+Implementation / replication of <a href="https://powers-of-10.github.io/">Generative Powers of Ten</a>, using <a href="http://stability.ai/">Stability AI</a>'s <a href="https://github.com/deep-floyd/IF">DeepFloyd IF</a>.
 
-<video src="./assets/animation_teaser.mp4" width="75%"></video>
 ![teaser](./assets/forest_teaser.png)
 
 </div>
@@ -27,15 +26,15 @@ To generate a video animation based on the generated images, run:
 python make_animation.py <generated_images_folder>
 ```
 
-## Other Examples
+## 🌄 Other Examples
 
-*from: "A aerial photo capturing Hawaii's islands..."*
-*to: "... a man standing on the edge of a volcano's caldera, waving at the camera"*
+*<div align="left">from: "A aerial photo capturing Hawaii's islands..."</div>*<br>
 ![teaser](./assets/hawaii_teaser.png)
+*<div align="right">to: "... a man standing on the edge of a volcano's caldera, waving at the camera"</div>*
 
-*from: "A sunflower field from afar"*
-*to: "... the honey bee sipping nectar and transferring pollen"*
+*<div align="left">from: "A sunflower field from afar"</div>*<br>
 ![teaser](./assets/sunflower_teaser.png)
+*<div align="right">to: "... the honey bee sipping nectar and transferring pollen"</div>*
 
 ## 📑 Citation
 
