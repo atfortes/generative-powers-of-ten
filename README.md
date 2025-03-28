@@ -2,9 +2,11 @@
 
 <h1>Generative Powers of Ten</h1>
 
-Implementation / replication of <a href="https://powers-of-10.github.io/">Generative Powers of Ten</a>, using <a href="http://stability.ai/">Stability AI</a>'s <a href="https://github.com/deep-floyd/IF">DeepFloyd IF</a>.
-
+*<div align="left">from: "Path leading to the dense forest..."</div>*<br>
 ![teaser](./assets/forest_teaser.png)
+*<div align="right">to: "... close-up of tree bark showing small cracks, lichen, and insects"</div>*
+
+Implementation / replication of <a href="https://powers-of-10.github.io/">Generative Powers of Ten</a>, using <a href="http://stability.ai/">Stability AI</a>'s <a href="https://github.com/deep-floyd/IF">DeepFloyd IF</a>.
 
 </div>
 
@@ -32,7 +34,7 @@ python make_animation.py <generated_images_folder>
 ![teaser](./assets/hawaii_teaser.png)
 *<div align="right">to: "... a man standing on the edge of a volcano's caldera, waving at the camera"</div>*
 
-*<div align="left">from: "A sunflower field from afar"</div>*<br>
+*<div align="left">from: "A sunflower field from afar..."</div>*<br>
 ![teaser](./assets/sunflower_teaser.png)
 *<div align="right">to: "... the honey bee sipping nectar and transferring pollen"</div>*
 
